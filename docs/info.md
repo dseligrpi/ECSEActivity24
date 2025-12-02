@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Powers an LED Based on specific inputs
 
 ## How to test
 
-Explain how to use your project
+Press the buttons in different combinations
 
 ## External hardware
 
